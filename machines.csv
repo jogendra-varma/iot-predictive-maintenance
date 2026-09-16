@@ -1,0 +1,13 @@
+machine_id,machine_type,install_date,location,degradation_rate
+M001,Conveyor Motor,2020-11-26,Line B,0.05
+M002,Injection Molder,2024-01-22,Line A,0.05
+M003,CNC Lathe,2020-03-28,Line A,0.15
+M004,Conveyor Motor,2023-10-28,Line B,0.15
+M005,Conveyor Motor,2023-01-28,Line B,0.15
+M006,Injection Molder,2022-05-21,Line A,0.0
+M007,CNC Lathe,2020-05-10,Line A,0.05
+M008,CNC Lathe,2023-08-25,Line A,0.05
+M009,Conveyor Motor,2022-02-08,Line C,0.0
+M010,Hydraulic Press,2020-12-09,Line C,0.0
+M011,Conveyor Motor,2023-12-08,Line C,0.1
+M012,Conveyor Motor,2022-03-16,Line B,0.0

@@ -1,0 +1,44 @@
+machine_id,maintenance_date,maintenance_hours,maintenance_type,technician_notes
+M001,2026-07-10,5.8,Corrective,Replaced worn component
+M001,2026-06-14,3.3,Routine,"Vibration levels elevated, adjusted"
+M001,2026-06-24,5.9,Corrective,"Vibration levels elevated, adjusted"
+M001,2026-06-04,2.9,Corrective,Standard inspection completed
+M002,2026-06-06,3.2,Routine,"Vibration levels elevated, adjusted"
+M002,2026-06-03,1.2,Corrective,"Vibration levels elevated, adjusted"
+M002,2026-06-10,7.0,Emergency,Replaced worn component
+M002,2026-07-27,2.2,Corrective,Standard inspection completed
+M003,2026-06-16,6.3,Routine,Replaced worn component
+M003,2026-06-21,2.4,Routine,Replaced worn component
+M003,2026-07-21,1.1,Corrective,Standard inspection completed
+M003,2026-06-01,7.3,Routine,Standard inspection completed
+M003,2026-06-22,7.1,Corrective,"Bearing wear noted, monitor"
+M004,2026-06-06,4.9,Routine,"Bearing wear noted, monitor"
+M004,2026-06-26,7.3,Corrective,"Bearing wear noted, monitor"
+M004,2026-06-23,6.4,Emergency,Standard inspection completed
+M005,2026-06-14,1.1,Corrective,"Bearing wear noted, monitor"
+M005,2026-07-11,3.4,Corrective,Standard inspection completed
+M005,2026-06-21,2.1,Corrective,"Bearing wear noted, monitor"
+M006,2026-07-18,5.3,Routine,No issues found
+M006,2026-07-20,5.6,Corrective,Replaced worn component
+M006,2026-06-03,6.3,Routine,Standard inspection completed
+M006,2026-06-21,1.5,Corrective,"Bearing wear noted, monitor"
+M007,2026-06-01,6.0,Emergency,"Bearing wear noted, monitor"
+M007,2026-07-16,7.6,Routine,"Vibration levels elevated, adjusted"
+M007,2026-07-24,2.9,Routine,"Vibration levels elevated, adjusted"
+M007,2026-07-01,7.3,Corrective,"Bearing wear noted, monitor"
+M008,2026-06-24,7.9,Routine,"Bearing wear noted, monitor"
+M008,2026-06-22,5.8,Corrective,Replaced worn component
+M008,2026-07-18,1.4,Corrective,Replaced worn component
+M008,2026-06-06,5.0,Corrective,No issues found
+M008,2026-07-20,3.1,Routine,Replaced worn component
+M009,2026-06-05,5.2,Corrective,No issues found
+M009,2026-07-01,4.1,Routine,No issues found
+M010,2026-06-28,3.7,Routine,Replaced worn component
+M010,2026-06-18,5.6,Routine,No issues found
+M010,2026-06-27,1.4,Routine,"Bearing wear noted, monitor"
+M010,2026-07-10,7.5,Routine,No issues found
+M011,2026-07-28,6.4,Emergency,"Bearing wear noted, monitor"
+M011,2026-07-15,6.9,Routine,"Bearing wear noted, monitor"
+M011,2026-06-27,5.3,Routine,"Vibration levels elevated, adjusted"
+M012,2026-06-03,1.2,Routine,"Vibration levels elevated, adjusted"
+M012,2026-06-22,4.2,Routine,"Vibration levels elevated, adjusted"
